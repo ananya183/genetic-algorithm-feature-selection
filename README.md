@@ -112,7 +112,19 @@ The implementation of Genetic Algorithms and Contrastive Learning for classifyin
 
 ## References
 
-- Include all references used in the project, including those mentioned in the theoretical overview and methodology sections.
+## References
+
+1. Jian Kang et al., "Building instance classification using street view images", ISPRS Journal of Photogrammetry and Remote Sensing 145 (2018).
+2. Nitish Mutha, "Equirectangular toolbox", GitHub.
+3. Maxime Oquab et al., "DINOv2: Learning Robust Visual Features without Supervision", 2023.
+4. Ross Wightman, Hugo Touvron, and Herve Jegou, "ResNet strikes back: An improved training procedure in timm", NeurIPS 2021.
+5. Chen Sun, Abhinav Shrivastava, Saurabh Singh, Abhinav Gupta, "Revisiting Unreasonable Effectiveness of Data in Deep Learning Era", ICCV 2017.
+6. Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton, "ImageNet Classification with Deep Convolutional Neural Networks", NeurIPS 2012.
+7. Ting Chen, Simon Kornblith, Mohammad Norouzi, Geoffrey Hinton, "A Simple Framework for Contrastive Learning of Visual Representations", ICML 2020.
+8. Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, Oriol Vinyals, "Understanding deep learning requires rethinking generalization", ICLR 2017.
+9. Yoav Goldberg, "Neural Network Methods for Natural Language Processing", Synthesis Lectures on Human Language Technologies, 2017.
+10. Ian Goodfellow, Yoshua Bengio, Aaron Courville, "Deep Learning", MIT Press, 2016.
+11. "PyGAD: Genetic Algorithm in Python", GitHub repository.
 
 ## Links
 
