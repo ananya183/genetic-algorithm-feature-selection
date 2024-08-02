@@ -112,8 +112,6 @@ The implementation of Genetic Algorithms and Contrastive Learning for classifyin
 
 ## References
 
-## References
-
 1. Jian Kang et al., "Building instance classification using street view images", ISPRS Journal of Photogrammetry and Remote Sensing 145 (2018).
 2. Nitish Mutha, "Equirectangular toolbox", GitHub.
 3. Maxime Oquab et al., "DINOv2: Learning Robust Visual Features without Supervision", 2023.
