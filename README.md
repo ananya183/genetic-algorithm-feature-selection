@@ -126,4 +126,4 @@ The implementation of Genetic Algorithms and Contrastive Learning for classifyin
 
 ## Links
 
-- [Dataset Folder](https://drive.google.com/drive/folders/169OkQP5kuOgm7LTlCCmVSRodVGlnzdSw?usp=sharing)
+- [Dataset Folder](https://drive.google.com/file/d/1GwWhovPvTN_8R2vKHdSqnJUDXM0vxAxx/view?usp=drive_link)
